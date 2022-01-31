@@ -1,0 +1,1 @@
+D:\PCloud\AndroidApp\AndroidApp\AndroidApp.UWP\AndroidApp.UWP.csproj;x64
