@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ojsykqMb8bLvWVYXIxmgCiWy+S7ZfRhPf5ZfuZ/N0CnW/PdodZSRA2jNqS3kHHdK8DCc4OYvyXuaw5infpqflA==",
+  "dgSpecHash": "TyOjTYCkIP8Bilx0+wy26IGKs07RtQfbN6LRu9IZm4KdUgHCVgZ4+ToOSa7rOVGQeYrI+PCaFlvi1xxFT7H7SQ==",
   "success": true,
-  "projectFilePath": "D:\\PCloud\\AndroidApp\\AndroidApp\\AndroidApp\\AndroidApp.csproj",
+  "projectFilePath": "C:\\Users\\Viktor\\source\\repos\\AndroidApp\\AndroidApp\\AndroidApp\\AndroidApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\policv\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\policv\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\policv\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\policv\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\policv\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\Viktor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }

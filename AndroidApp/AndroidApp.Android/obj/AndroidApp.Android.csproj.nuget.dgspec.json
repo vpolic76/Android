@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PCloud\\AndroidApp\\AndroidApp\\AndroidApp.Android\\AndroidApp.Android.csproj": {}
+    "C:\\Users\\Viktor\\source\\repos\\AndroidApp\\AndroidApp\\AndroidApp.Android\\AndroidApp.Android.csproj": {}
   },
   "projects": {
-    "D:\\PCloud\\AndroidApp\\AndroidApp\\AndroidApp.Android\\AndroidApp.Android.csproj": {
+    "C:\\Users\\Viktor\\source\\repos\\AndroidApp\\AndroidApp\\AndroidApp.Android\\AndroidApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PCloud\\AndroidApp\\AndroidApp\\AndroidApp.Android\\AndroidApp.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Viktor\\source\\repos\\AndroidApp\\AndroidApp\\AndroidApp.Android\\AndroidApp.Android.csproj",
         "projectName": "AndroidApp.Android",
-        "projectPath": "D:\\PCloud\\AndroidApp\\AndroidApp\\AndroidApp.Android\\AndroidApp.Android.csproj",
-        "packagesPath": "C:\\Users\\policv\\.nuget\\packages\\",
-        "outputPath": "D:\\PCloud\\AndroidApp\\AndroidApp\\AndroidApp.Android\\obj\\",
+        "projectPath": "C:\\Users\\Viktor\\source\\repos\\AndroidApp\\AndroidApp\\AndroidApp.Android\\AndroidApp.Android.csproj",
+        "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Viktor\\source\\repos\\AndroidApp\\AndroidApp\\AndroidApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\policv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Viktor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "D:\\PCloud\\AndroidApp\\AndroidApp\\AndroidApp\\AndroidApp.csproj": {
-                "projectPath": "D:\\PCloud\\AndroidApp\\AndroidApp\\AndroidApp\\AndroidApp.csproj"
+              "C:\\Users\\Viktor\\source\\repos\\AndroidApp\\AndroidApp\\AndroidApp\\AndroidApp.csproj": {
+                "projectPath": "C:\\Users\\Viktor\\source\\repos\\AndroidApp\\AndroidApp\\AndroidApp\\AndroidApp.csproj"
               }
             }
           }
@@ -54,20 +54,20 @@
         }
       }
     },
-    "D:\\PCloud\\AndroidApp\\AndroidApp\\AndroidApp\\AndroidApp.csproj": {
+    "C:\\Users\\Viktor\\source\\repos\\AndroidApp\\AndroidApp\\AndroidApp\\AndroidApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PCloud\\AndroidApp\\AndroidApp\\AndroidApp\\AndroidApp.csproj",
+        "projectUniqueName": "C:\\Users\\Viktor\\source\\repos\\AndroidApp\\AndroidApp\\AndroidApp\\AndroidApp.csproj",
         "projectName": "AndroidApp",
-        "projectPath": "D:\\PCloud\\AndroidApp\\AndroidApp\\AndroidApp\\AndroidApp.csproj",
-        "packagesPath": "C:\\Users\\policv\\.nuget\\packages\\",
-        "outputPath": "D:\\PCloud\\AndroidApp\\AndroidApp\\AndroidApp\\obj\\",
+        "projectPath": "C:\\Users\\Viktor\\source\\repos\\AndroidApp\\AndroidApp\\AndroidApp\\AndroidApp.csproj",
+        "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Viktor\\source\\repos\\AndroidApp\\AndroidApp\\AndroidApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\policv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Viktor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

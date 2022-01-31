@@ -7,15 +7,15 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="B9764B86-B7A8-44EC-AC25-ADD73E83B5BA"
-    Publisher="CN=435F2EA3-8485-4B6E-A42A-692A5611B5AB"
+    Name="D0020259-0B05-4A33-B7CF-46EEE8D96D44"
+    Publisher="CN=3889E5C5-8350-4287-8341-4ACB460D7B45"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="ec0cc741-fd3e-485c-81be-68815c480690" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>AndroidApp.UWP</DisplayName>
-    <PublisherDisplayName>435F2EA3-8485-4B6E-A42A-692A5611B5AB</PublisherDisplayName>
+    <PublisherDisplayName>3889E5C5-8350-4287-8341-4ACB460D7B45</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 

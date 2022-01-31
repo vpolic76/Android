@@ -1,16 +1,11 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "20cf9a50-2894-454d-9598-222b9f5da815": {
-      "ProjectGuid": "20cf9a50-2894-454d-9598-222b9f5da815",
+    "262ed4b5-5808-4cc8-8215-e315a9e2be92": {
+      "ProjectGuid": "262ed4b5-5808-4cc8-8215-e315a9e2be92",
       "DisplayName": "AndroidApp",
       "ColorIndex": 0
-    },
-    "69fc8e93-3109-4ea9-a9af-3bfc33bae377": {
-      "ProjectGuid": "69fc8e93-3109-4ea9-a9af-3bfc33bae377",
-      "DisplayName": "AndroidApp.Android",
-      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 1
 }
