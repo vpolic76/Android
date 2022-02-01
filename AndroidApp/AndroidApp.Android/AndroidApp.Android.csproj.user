@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <SelectedDevice>Pixel4a</SelectedDevice>
-    <ActiveDebugProfile>Pixel4a</ActiveDebugProfile>
+    <SelectedDevice>Pixel5</SelectedDevice>
+    <ActiveDebugProfile>Pixel5</ActiveDebugProfile>
   </PropertyGroup>
 </Project>

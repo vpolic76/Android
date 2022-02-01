@@ -9044,18 +9044,18 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Viktor\\.nuget\\packages\\": {},
+    "C:\\Users\\policv\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Viktor\\source\\repos\\AndroidApp\\AndroidApp\\AndroidApp.UWP\\AndroidApp.UWP.csproj",
+      "projectUniqueName": "D:\\Dokumenti\\Visual Studio 2022\\Projects\\Android\\AndroidApp\\AndroidApp.UWP\\AndroidApp.UWP.csproj",
       "projectName": "AndroidApp.UWP",
-      "projectPath": "C:\\Users\\Viktor\\source\\repos\\AndroidApp\\AndroidApp\\AndroidApp.UWP\\AndroidApp.UWP.csproj",
-      "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Viktor\\source\\repos\\AndroidApp\\AndroidApp\\AndroidApp.UWP\\obj\\",
+      "projectPath": "D:\\Dokumenti\\Visual Studio 2022\\Projects\\Android\\AndroidApp\\AndroidApp.UWP\\AndroidApp.UWP.csproj",
+      "packagesPath": "C:\\Users\\policv\\.nuget\\packages\\",
+      "outputPath": "D:\\Dokumenti\\Visual Studio 2022\\Projects\\Android\\AndroidApp\\AndroidApp.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -9063,7 +9063,7 @@
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Viktor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\policv\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9077,8 +9077,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\Viktor\\source\\repos\\AndroidApp\\AndroidApp\\AndroidApp\\AndroidApp.csproj": {
-              "projectPath": "C:\\Users\\Viktor\\source\\repos\\AndroidApp\\AndroidApp\\AndroidApp\\AndroidApp.csproj"
+            "D:\\Dokumenti\\Visual Studio 2022\\Projects\\Android\\AndroidApp\\AndroidApp\\AndroidApp.csproj": {
+              "projectPath": "D:\\Dokumenti\\Visual Studio 2022\\Projects\\Android\\AndroidApp\\AndroidApp\\AndroidApp.csproj"
             }
           }
         }
