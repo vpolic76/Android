@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "u1UCpWTjDCXbYFKNcqsco2n5vDMs1FBxLMMSnIbYKHOGdY664Q8+WM2BoOC/qVwPhVrf54XGU+8l03HJruegSg==",
+  "dgSpecHash": "sxAsaje/TLJRORogE0KNbmyO7Bew0XUtT15VwJLmxso8u1QTFdbxEr/VTDjiC1FKpLmq+4HbuAzP5Tvfi5MRaA==",
   "success": true,
   "projectFilePath": "D:\\Dokumenti\\Visual Studio 2022\\Projects\\Android\\AndroidApp\\AndroidApp\\AndroidApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\policv\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\policv\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\policv\\.nuget\\packages\\refractored.mvvmhelpers\\1.6.2\\refractored.mvvmhelpers.1.6.2.nupkg.sha512",
     "C:\\Users\\policv\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\policv\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\policv\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\policv\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],

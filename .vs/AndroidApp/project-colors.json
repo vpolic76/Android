@@ -5,7 +5,17 @@
       "ProjectGuid": "262ed4b5-5808-4cc8-8215-e315a9e2be92",
       "DisplayName": "AndroidApp",
       "ColorIndex": 0
+    },
+    "f118d106-7552-4d74-bc09-47bd07717f37": {
+      "ProjectGuid": "f118d106-7552-4d74-bc09-47bd07717f37",
+      "DisplayName": "AndroidApp.UWP",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

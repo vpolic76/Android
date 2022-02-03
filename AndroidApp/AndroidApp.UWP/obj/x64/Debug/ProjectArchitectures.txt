@@ -1,0 +1,1 @@
+D:\Dokumenti\Visual Studio 2022\Projects\Android\AndroidApp\AndroidApp.UWP\AndroidApp.UWP.csproj;x64

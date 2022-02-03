@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fScr3uVeJMvMLbozQa94QT4FGsUlgvrP7UOowqlJsNmFfh/1s/6rjtF7icRnji2YdRhTGIVQ8E1zx+6wIZUQjQ==",
+  "dgSpecHash": "M5xKCGrVYIxyuA/SDAasL0jwCOG9+hwBo/IG0VAmEQ8FQRKg2t+cJoqOb/Asd0l7b0bwjR0XAJL67KmQ0x76pA==",
   "success": true,
   "projectFilePath": "D:\\Dokumenti\\Visual Studio 2022\\Projects\\Android\\AndroidApp\\AndroidApp.Android\\AndroidApp.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\policv\\.nuget\\packages\\refractored.mvvmhelpers\\1.6.2\\refractored.mvvmhelpers.1.6.2.nupkg.sha512",
     "C:\\Users\\policv\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\policv\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\policv\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\policv\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",
     "C:\\Users\\policv\\.nuget\\packages\\xamarin.androidx.annotation.experimental\\1.1.0.1\\xamarin.androidx.annotation.experimental.1.1.0.1.nupkg.sha512",

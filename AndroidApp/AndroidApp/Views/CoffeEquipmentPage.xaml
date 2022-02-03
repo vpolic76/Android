@@ -1,13 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:viewmodels="clr-namespace:AndroidApp.ViewModels"
              x:Class="AndroidApp.Views.CoffeEquipmentPage"
-             Background="Orange">
+             Background="White"
+             x:DataType="viewmodels:CoffeEquipmentViewModel">
+    <!--x:DataType je najbrži način (zone se Compile Binding u izvedbi i daje intellisense tijekom pisanja. Vjerojatno najbolji način
+    ali kao dodatak <ContentPage.BindingContext>, a može i BindingContext = ...-->
+    <ContentPage.BindingContext>
+        <viewmodels:CoffeEquipmentViewModel/>
+    </ContentPage.BindingContext>
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Wellcome!" FontSize="80"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <Grid RowDefinitions="*,Auto,Auto,*">
+            <Entry Text="{Binding CountDisplay}"/>
+            <Label
+                x:Name="LabelCount"
+                Grid.Row="1"
+                HorizontalOptions="Center"
+                FontSize="Large"
+                Text="{Binding CountDisplay}"/>
+
+            <Button x:Name="ButtonClick"
+                    Text="Klikni me"
+                    Command="{Binding IncreaseCount}"   
+                    Grid.Row="2"
+                    FontSize="Large"/>
+        </Grid>
     </ContentPage.Content>
 </ContentPage>
